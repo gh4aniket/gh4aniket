@@ -16,12 +16,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
- 
-- 👨‍💻 Check my **portfolio** at **[gh4aniket](https://gh4bhi.github.io/Web-Portfolio/)**
 
 - ⚡ I like **reading books and playing football**
-
-- 📝 You can check some of my **blogs** at **[@gh4ahbi](https://medium.com/@gh4aniket)**
 
 - 📫 How to **reach me** **gh4aniket@gmail.com**
 <br>
