@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m a student at <a href = "https://mait.ac.in"><b>Innogeeks</b></a>
+- 🔭 I’m a student at <a href = "https://mait.ac.in"><b>Maharaja Agrasen Institute Of Technology</b></a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
