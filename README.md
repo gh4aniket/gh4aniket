@@ -16,7 +16,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍ You can view my **Credly Profile** at **[gh4ahbi](https://www.credly.com/users/gh4aniket)**
  
 - 👨‍💻 Check my **portfolio** at **[gh4aniket](https://gh4aniket.github.io/Web-Portfolio/)**
 
