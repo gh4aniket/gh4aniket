@@ -25,11 +25,11 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/aniket-swaroop-shrivastava-34a879292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gh4abhi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14595271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14595271" height="30" width="40" /></a>
-<a href="https://instagram.com/gh4aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gh4aniket" height="30" width="40" /></a>
-<a href="https://medium.com/@gh4aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gh4aniket" height="30" width="40" /></a>
+
+<a href="https://instagram.com/gh21aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gh4aniket" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/gh4aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gh4aniket" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gh4anikets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Aniket_s_shrivastava" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gh21aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Aniket_s_shrivastava" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gh4aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gh4aniket" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gh4aniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gh4aniket" height="30" width="40" /></a>
 </p>
