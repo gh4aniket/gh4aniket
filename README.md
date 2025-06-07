@@ -61,8 +61,8 @@ You can click the Preview link to take a look at your changes.
 
 ## ✨ Top Repositories
 <h3>Lights Out Game</h3>
-<p align = "center">
-    <a align ="left" href="https://github.com/gh4aniket/Lights-out-game">
+<p align = "left">
+    <a  href="https://github.com/gh4aniket/Lights-out-game">
         <img align="center" src="https://github.com/gh4aniket/photos/blob/main/Screenshot%202025-06-07%20204234.png" width="600" height="300"/>
   </a>
   <h3>Bankers Desk</h3>
