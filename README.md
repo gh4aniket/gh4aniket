@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <h3>Bankers Desk</h3>
   <a href="https://github.com/gh4aniket/Bankers-Desk/tree/main">
-        <img align="center" src="https://github.com/gh4aniket/photos/blob/main/Firefly_generate%20an%20image%20with%20logo%20'BANKER'S%20DESK'%20which%20is%20an%20online%20net%20banking%20app%20134106.jpg" />
+        <img align="center" src="https://github.com/gh4aniket/photos/blob/main/Firefly_generate%20an%20image%20with%20logo%20'BANKER'S%20DESK'%20which%20is%20an%20online%20net%20banking%20app%20134106.jpg"  width="600" height="300"/>
   </a>
        
 </p>
