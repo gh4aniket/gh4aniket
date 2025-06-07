@@ -55,14 +55,14 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-[![Aniket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gh4aniket&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Aniket%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4aniket/github-readme-activity-graph)
+<!--[![Aniket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gh4aniket&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Aniket%27s%20Activity%20Graph&theme=react-dark)](https://github.com/gh4aniket/github-readme-activity-graph)-->
 <br>
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 ## ✨ Top Repositories
 <p align = "center">
     <a href="https://github.com/gh4aniket/Lights-out-game"><h3>Lights Out Game</h3>
-        <img align="center" src="https://github.com/gh4aniket/photos/blob/main/Screenshot%202025-06-07%20204234.png" />
+        <img align="center" src="https://github.com/gh4aniket/Lights-out-game" />
   </a>
        
 </p>
