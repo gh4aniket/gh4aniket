@@ -62,23 +62,9 @@ You can click the Preview link to take a look at your changes.
 ## ✨ Top Repositories
 <p align = "center">
     <a href="https://github.com/gh4aniket/Lights-out-game">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Data-Structures-and-Algorithms&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
+        <img align="center" src="https://github.com/gh4aniket/photos/blob/main/Screenshot%202025-06-07%20204234.png" />
   </a>
-      <a href="https://github.com/gh4aniket/VirtuLabs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=VirtuLabs&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
-  </a>
-  <a href="https://github.com/gh4aniket/Stellarus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Stellarus&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
-  </a>
-<a href="https://github.com/gh4aniket/Terminal-Hacker">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Terminal-Hacker&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
-  </a>  
-  <a href="https://github.com/gh4aniket/Autotype">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Autotype&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
-  </a>  
-  <a href="https://github.com/gh4aniket/Competitive-Programming">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Competitive-Programming&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
-  </a>  
+       
 </p>
 <p align="center"> 
  <b> Visitor's count </b> <br>
