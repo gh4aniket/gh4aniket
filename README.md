@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ✨ Top Repositories
 <p align = "center">
-    <a href="https://github.com/gh4aniket/Data-Structures-and-Algorithms">
+    <a href="https://github.com/gh4aniket/Lights-out-game">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gh4aniket&repo=Data-Structures-and-Algorithms&locale=en&border_radius=0&theme=dark" alt="gh4aniket" />
   </a>
       <a href="https://github.com/gh4aniket/VirtuLabs">
