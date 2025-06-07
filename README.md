@@ -1,7 +1,7 @@
 <a href="#"><img align="center" width="1500"  height="350" alt="image" src="https://github.com/gh4aniket/gh4aniket/blob/main/Github%20Banner.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Aniket Swaroop Shrivastava</h1>
-<h3 align="center">Passionate to learn new things.</h3>
+<h3 align="center">Passionate For Web Development!</h3>
 
 <br>
 
@@ -10,16 +10,16 @@
 
 ## 🙋‍♂️ An Overview About Me:
 
-- 🔭 I’m a student at <a href = "https://mait.ac.in"><b>Maharaja Agrasen Institute Of Technology</b></a>
+- 🔭 I’m a CSE Sophomore at <a href = "https://mait.ac.in"><b>Maharaja Agrasen Institute Of Technology</b></a>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- ⚡ I like **reading books and playing football**
+- ⚡ I like **Problem Solving and implementing real word ideas**
 
-- 📫 How to **reach me** **gh4aniket@gmail.com**
+  
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,8 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gh4aniket/photos/7f175e8c228d4d8ebf49788e541cca5e650d1e11/sql.png?token=A3WC47F2TJ6IUUMV7BGTJHTFGVXMW" alt="css3" width="40" height="40"/> </a> <a href="[https://firebase.google.com/](https://www.w3schools.com/mysql/mysql_rdbms.asp)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gh4aniket/photos/main/rdbms.jpg?token=GHSAT0AAAAAACJCGD7ZXDCVR4RXXHZL4T34ZJVN6GA" alt="firebase" width="40" height="40"/> </a> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="[https://www.w3schools.com/html/](https://www.geeksforgeeks.org/java/)" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/f0f7f205-2f2c-49d9-86ef-20165d51a19b)
+" alt="css3" width="40" height="40"/> </a> <a href="[https://firebase.google.com/](https://www.w3schools.com/mysql/mysql_rdbms.asp)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gh4aniket/photos/main/rdbms.jpg?token=GHSAT0AAAAAACJCGD7ZXDCVR4RXXHZL4T34ZJVN6GA" alt="firebase" width="40" height="40"/> </a> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <br>
 <h3 align="left">📊 My Github Stats</h3>
 <!---
