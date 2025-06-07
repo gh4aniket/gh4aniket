@@ -41,7 +41,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gh4aniket/photos/blob/main/sql.png" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.geeksforgeeks.org/java/" target="_blank" rel="noreferrer"> <img src="https://github.com/gh4aniket/photos/blob/main/jqva.png" alt="java" width="40" height="40"/> </a>
 
-https://github.com/gh4aniket/photos/blob/main/jqva.png
 </p>
 <br>
 <h3 align="left">📊 My Github Stats</h3>
