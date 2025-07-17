@@ -72,12 +72,18 @@ You can click the Preview link to take a look at your changes.
   <h3>Tak Management App</h3>
   <a href="https://github.com/gh4aniket/CANTILEVER/tree/main/Task-Management-Webapp">
         <img align="center" src="https://i.postimg.cc/mgRxj0GJ/Gemini-Generated-Image-5lyljv5lyljv5lyl.png"  width="300" height="150"/>
-  </a>      
+  </a>    
+  <h3>Tak Management App</h3>
+  <a href="https://github.com/gh4aniket/CANTILEVER/tree/main/Blog%20website">
+        <img align="center" src=" https://i.postimg.cc/8CgcxQ6z/Screenshot-2025-07-12-140552.png"  width="300" height="150"/>
+  </a>    
 </p>
 <p align="center"> 
  <b> Visitor's count </b> <br>
   <img src="https://profile-counter.glitch.me/gh4aniket/count.svg" />
  </p>
+
+
 
 ## 🌱 Contributions
 ![snake gif](https://github.com/gh4aniket/gh4aniket/blob/output/github-contribution-grid-snake.gif)
