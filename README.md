@@ -21,8 +21,9 @@
 - ⚡ I like **Problem Solving and implementing real word ideas**
 
   
-<br>
-<a href="[![trophy](https://github-profile-trophy.vercel.app/?username=gh4aniket&theme=onedark&title=-stars,-followers,-reviews)](https://github.com/ryo-ma/github-profile-trophy)"></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gh4aniket&theme=onedark&title=-Stars,-Followers,-Reviews)](https://github.com/gh4aniket/github-profile-trophy)
+
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +46,7 @@
 
 </p>
 <br>
+
 <h3 align="left">📊 My Github Stats</h3>
 <!---
 gh4aniket/gh4aniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
