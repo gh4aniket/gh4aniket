@@ -22,7 +22,7 @@
 
   
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gh4aniket&theme=onedark&title=-stars,-followers,-reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="[![trophy](https://github-profile-trophy.vercel.app/?username=gh4aniket&theme=onedark&title=-stars,-followers,-reviews)](https://github.com/ryo-ma/github-profile-trophy)"></a>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
