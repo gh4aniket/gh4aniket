@@ -83,11 +83,11 @@ You can click the Preview link to take a look at your changes.
   </a>    
 </p>
 <p align="center"> 
- <b> Visitor's count </b> <br>
-  <img src="https://profile-counter.glitch.me/gh4aniket/count.svg" />
+ <b> Visitor's count </b>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniket.aniket" />
  </p>
 
 
 
 ## 🌱 Contributions
-![snake gif](https://github.com/gh4aniket/gh4aniket/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/gh4aniket/gh4aniket/output/github-contribution-grid-snake.svg)
