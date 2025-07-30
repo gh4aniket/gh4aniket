@@ -13,7 +13,7 @@
 
 - 🔭 I’m a CSE Sophomore at <a href = "https://mait.ac.in"><b>Maharaja Agrasen Institute Of Technology</b></a>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK and**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
