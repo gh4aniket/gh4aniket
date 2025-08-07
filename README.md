@@ -9,7 +9,7 @@
 <!--<a href="#"><img align="right" width="auto"  height="auto" alt="image" src="https://github.com/gh4aniket/gh4aniket/blob/main/Profile%20Image.jpg"/></a>-->
 
 
-## 🙋‍♂️ An Overview About Me:
+## 🙋‍♂️ An Overview  About  Me:
 
 - 🔭 I’m a CSE Sophomore at <a href = "https://mait.ac.in"><b>Maharaja Agrasen Institute Of Technology</b></a>
 
