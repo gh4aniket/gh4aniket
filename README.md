@@ -2,7 +2,7 @@
 "/></a>-->
 
 <h1 align="center">Hi 👋, I'm Aniket Swaroop Shrivastava!</h1>
-<h3 align="center">Passionate For Web Development!</h3>
+<h3 align="center">Passionate For Web Development  !</h3>
 
 <br>
 
