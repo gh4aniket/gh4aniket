@@ -254,9 +254,7 @@ A web-based implementation of the classic Lights Out puzzle, focused on interact
 
 <div align="center">
 
-<a href="https://leetcode.com/gh4an/">
-  <img src="https://leetcard.jacoblin.cool/gh4an?theme=dark&font=baloo&ext=heatmap" />
-</a>
+
 
 </div>
 
@@ -282,9 +280,7 @@ A web-based implementation of the classic Lights Out puzzle, focused on interact
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/gh4an/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
 
 <a href="https://www.hackerrank.com/gh4aniket">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
