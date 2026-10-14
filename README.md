@@ -36,7 +36,6 @@ I'm a **Computer Science and Engineering student at Maharaja Agrasen Institute o
 * 📈 **CGPA: 9.63 / 10**
 * 💻 Full-Stack Developer with hands-on **MERN Stack** experience
 * 🤖 Interested in **AI/ML, Generative AI and intelligent applications**
-* 🧠 Solved **400+ DSA problems**
 * 🚀 Open-source contributor with **40+ merged PRs**
 * 🏆 **Rank 78 — GirlScript Summer of Code 2025**
 * ⭐ **5-Star HackerRank** ratings in C++ and Python
